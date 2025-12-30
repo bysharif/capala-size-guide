@@ -1,0 +1,11 @@
+{
+  "name": "size-guide",
+  "version": "1.0.0",
+  "description": "Shopify size guide component with CM/IN toggle",
+  "scripts": {
+    "dev": "live-server src --port=3000"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
